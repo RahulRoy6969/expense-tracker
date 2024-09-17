@@ -30,7 +30,7 @@ No installation is required. Simply clone this repository and open the `index.ht
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/RahulRoy6969/expense-tracker.git
 ```
 
 ## Usage
